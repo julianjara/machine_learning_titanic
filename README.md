@@ -3,10 +3,21 @@
 ![Tag](https://img.shields.io/badge/Machine-Learning-blueviolet.svg)
 
 # Objetivo
-Aquí encontraras un proyecto de machine learning usando Python y Jupyter notebook
+Proyecto de machine learning usando Python, Jupyter notebook y titanic.csv
 
-$$x_{1,2} = {-b\pm\sqrt{b^2 - 4ac} \over 2a}.$$
-<img src="https://render.githubusercontent.com/render/math?math=x_{1,2} = {-b\pm\sqrt{b^2 - 4ac} \over 2a}.">
+# Algoritmo Vs Modelo
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+## Algoritmo
+
+Es una técnica matemática, es decir una ecuación
+por ejemplo:
+
+<img src="https://render.githubusercontent.com/render/math?math=y = mx + b">
+
+
+## Modelo
+
+Cuando reemplazas las variables por valores puntuales en una ecuación, es allí cuando generas un Modelo
+
+<img src="https://render.githubusercontent.com/render/math?math=y = 0.45x + 19">
 
