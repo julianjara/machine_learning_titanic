@@ -21,3 +21,14 @@ Cuando reemplazas las variables por valores puntuales en una ecuación, es allí
 
 <img src="https://render.githubusercontent.com/render/math?math=y = 0.45x + 19">
 
+## Panda y Numpy
+
+Panda es la herramienta para explorar el dataset, Panda tomara el Dataset y lo convertira en una tabla.
+luego podras hacer cosas como
+1. Calcular el promedio, el maximo, el minimo de cada columna
+2. Correlacion entre columnas
+3. cual es la distribucion de datos en cada columna
+4. limpiar el dataset (remover los datos vacios, filtrar)
+5. Visualizar los datos usando Matplotlib. barras, lineas, histogramas, burbujas
+6. Guardar los datos
+
